@@ -3,6 +3,9 @@
 ### Description
 A simple Arduino-based shooting game using the MAX7219 LED matrix. This project helps in learning how to control the LED matrix, handle multiple simultaneous animations, and manage user input with a joystick.
 
+### Video
+[youtube](https://youtube.com/shorts/3P3fnXWZfwY)
+
 ### Components Required
 - Arduino
 - Breadboard
