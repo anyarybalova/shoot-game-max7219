@@ -13,9 +13,6 @@ A simple Arduino-based shooting game using the MAX7219 LED matrix. This project 
 - 100µF Capacitor
 - Jumper wires
 
-### Circuit Diagram
-
-
 ### Installation & Setup
 1. Install the required Arduino libraries: `MD_MAX72xx.h` and `SPI.h`.
 2. Upload the provided code to your Arduino board.
@@ -314,3 +311,8 @@ void loop() {
   delay(30);
 }
 ```
+
+
+### Diagram
+![diagram](diagram.png)
+
