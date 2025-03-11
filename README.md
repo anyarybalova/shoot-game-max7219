@@ -318,4 +318,4 @@ void loop() {
 
 ### Diagram
 ![diagram](diagram.png)
-
+(on this diagram I had to use different pins for 51 and 52, as its arduino uno, on my project I use arduino mega2560)
